@@ -1,0 +1,14 @@
+{
+  "name": "mehulharjibhadrichabot",
+  "version": "1.0.0",
+  "description": "This is a personal bot for Mehul Harji Bhadricha. Continue further to get to know more details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehul Harji Bhadricha",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  }
+}
